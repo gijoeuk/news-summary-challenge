@@ -1,3 +1,38 @@
+So....classes
+Each individual note will have an API that links to a news website.
+There will be a NewsList containing an array of lots of these notes
+There will be a NewsListView to turn each of these into HTML and list the
+There will be a singleStoryView so that a reader can see the whole story
+
+As a busy politician
+I can see all of today's headlines in one place
+So I know what the big stories of the day are
+NewsList will cover this one
+
+As a busy politician
+I can click a link to see the original news article
+So that I can get an in depth understanding of a very important story
+singleStoryView willl cover this one
+
+As a busy politician
+I can see a summary of a news article
+So I can get a few more details about an important story
+NewsListView will bring back start of the story/headlines; dependent on API
+
+As a busy politician
+I can see a picture to illustrate each news article when I browse headlines
+So that I have something nice to look at
+This will need to go into NewsListView
+
+As a busy politician
+I can read the site comfortably on my phone
+Just in case my laptop breaks
+Cross this one when we get to it
+
+As a busy politician
+I can see whizzy animations in the app
+To make my news reading more fun
+
 # News Summary challenge
 
 * Challenge time: rest of the day and weekend, until Monday 9am.
