@@ -4,6 +4,9 @@ There will be a NewsList containing an array of lots of these notes
 There will be a NewsListView to turn each of these into HTML and list the
 There will be a singleStoryView so that a reader can see the whole story
 
+News story class;
+instanciate with body, and headline/summary. Then call for each?
+
 As a busy politician
 I can see all of today's headlines in one place
 So I know what the big stories of the day are
